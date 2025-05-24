@@ -1,5 +1,5 @@
 # Reinforcement-Learning-Project
-Snake-Game using Deep Q learning.
+Snake-Game using Deep Q learning , 
 Team Member - Sharonraj and his 
 Contribution - 
 Graphics creation and utilities,DQN Architecture 
